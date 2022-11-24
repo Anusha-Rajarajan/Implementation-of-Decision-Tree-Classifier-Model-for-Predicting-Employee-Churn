@@ -51,9 +51,11 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![output](./d1.png)
 ### null values
 ![output](./d2.png)
+
 ![output](./d3.png)
 ### Label encoder
 ![output](./d4.png)
+
 ![output](./d5.png)
 ### Accuracy
 ![output](./d6.png)
